@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\stringPretvaranjeuBrojeve\stringPretvaranjeuBrojeve\bin\Debug\stringPretvaranjeuBrojeve.exe.config
+C:\Users\ucenik\source\repos\stringPretvaranjeuBrojeve\stringPretvaranjeuBrojeve\bin\Debug\stringPretvaranjeuBrojeve.exe
+C:\Users\ucenik\source\repos\stringPretvaranjeuBrojeve\stringPretvaranjeuBrojeve\bin\Debug\stringPretvaranjeuBrojeve.pdb
+C:\Users\ucenik\source\repos\stringPretvaranjeuBrojeve\stringPretvaranjeuBrojeve\obj\Debug\stringPretvaranjeuBrojeve.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\stringPretvaranjeuBrojeve\stringPretvaranjeuBrojeve\obj\Debug\stringPretvaranjeuBrojeve.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\stringPretvaranjeuBrojeve\stringPretvaranjeuBrojeve\obj\Debug\stringPretvaranjeuBrojeve.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\stringPretvaranjeuBrojeve\stringPretvaranjeuBrojeve\obj\Debug\stringPretvaranjeuBrojeve.exe
+C:\Users\ucenik\source\repos\stringPretvaranjeuBrojeve\stringPretvaranjeuBrojeve\obj\Debug\stringPretvaranjeuBrojeve.pdb
